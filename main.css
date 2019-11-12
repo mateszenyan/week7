@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0%;
 }
 
@@ -61,6 +61,5 @@ min-height: 100%;
 .col {
     padding: 0 15px;
     flex: content;
-
 }
 
